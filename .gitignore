@@ -1,3 +1,4 @@
 /.idea
 tornado.*
 __pycache__
+/config/database.ini
